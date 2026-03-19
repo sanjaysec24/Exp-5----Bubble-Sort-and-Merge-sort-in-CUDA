@@ -205,10 +205,9 @@ int main(){
 ```
 
 ## OUTPUT:
-```
+
 <img width="902" height="287" alt="image" src="https://github.com/user-attachments/assets/3cb3e414-b255-406e-af8d-7fb450f3e787" />
 
-```
 
 ## RESULT:
 Thus, the program has been executed using CUDA to implement Bubble Sort and Merge Sort on the GPU using CUDA and analyze the efficiency of this sorting algorithm when parallelized.
